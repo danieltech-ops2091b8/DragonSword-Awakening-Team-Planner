@@ -8,6 +8,8 @@ Build and optimize your team, compare heroes, plan skills and equipment, analyze
 
 ## ✨ Features
 
+![team-planner](Data/dca117e3-3ada-4521-9642-26d753c1c10f.png)
+
 ### 👥 Team Builder
 
 Create and experiment with different team compositions.
