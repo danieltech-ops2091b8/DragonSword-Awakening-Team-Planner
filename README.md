@@ -31,6 +31,8 @@ Create and save optimized builds for individual heroes.
 * Build presets
 * Custom build notes
 
+  [DOWNLOAD TEAM PLANNER](https://github.com/danieltech-ops2091b8/DragonSword-Awakening-Team-Planner/releases/tag/release)
+
 ### 🔗 Synergy Analyzer
 
 Analyze how your heroes work together.
